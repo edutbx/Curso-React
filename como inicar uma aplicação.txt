@@ -1,0 +1,5 @@
+inicar um projeto em react:
+
+npx create-react-app nome (npx facilita a configuração inicial)
+
+npm start (para rodar o projeto)

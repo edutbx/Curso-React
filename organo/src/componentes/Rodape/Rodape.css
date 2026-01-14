@@ -1,0 +1,13 @@
+.rodape{
+    background-color: #EBDBC1;
+}
+
+.rodape img{
+    width: 300px;
+}
+
+.rodape section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
